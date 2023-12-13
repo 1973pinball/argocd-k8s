@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: hello-world
-        image: 1973pinball/myhello
+        image: <IMAGE>
         ports:
         - containerPort: 8080
